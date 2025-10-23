@@ -313,7 +313,7 @@ if UIS.TouchEnabled and not UIS.KeyboardEnabled and not UIS.MouseEnabled
 	end)
 end
 local leftwallrunanim = Instance.new("Animation",char)
-leftwallrunanim.AnimationId = "rbxassetid://180426354"
+leftwallrunanim.AnimationId = "rbxassetid://103328534894712"
 local leftwallrunanimplay = hum:LoadAnimation(leftwallrunanim)
 
 
@@ -338,7 +338,7 @@ end
 
 
 local rightwallrunanim = Instance.new("Animation",char)
-rightwallrunanim.AnimationId = "rbxassetid://180426354"
+rightwallrunanim.AnimationId = "rbxassetid://103328534894712"
 local rightwallrunanimplay = hum:LoadAnimation(rightwallrunanim)
 
 
@@ -347,7 +347,7 @@ verticalwallrunanim.AnimationId = "rbxassetid://180426354"
 local verticalwallrunanimplay = hum:LoadAnimation(verticalwallrunanim)
 
 local roll = Instance.new("Animation",char)
-roll.AnimationId = "rbxassetid://123456789012345"
+roll.AnimationId = "rbxassetid://111184963098041"
 local rollplay = hum:LoadAnimation(roll)
 
 
@@ -365,7 +365,7 @@ dodging.AnimationId = "rbxassetid://287325678"
 local dodgingplay = hum:LoadAnimation(dodging)
 
 local slidinganim = Instance.new("Animation",char)
-slidinganim.AnimationId = "rbxassetid://22334455667788"
+slidinganim.AnimationId = "rbxassetid://13996262042"
 local slidingplay = hum:LoadAnimation(slidinganim)
 local rollering = false
 
@@ -1683,7 +1683,7 @@ local Root = Character:WaitForChild("HumanoidRootPart")
 local Head = Character:WaitForChild("Head")
 local Hum = Character:WaitForChild("Humanoid")
 local holdingon = Instance.new("Animation",hum)
-holdingon.AnimationId = "rbxassetid://148831003"
+holdingon.AnimationId = "rbxassetid://125035673635789"
 local climbingstuffs = Instance.new("Animation",hum)
 climbingstuffs.AnimationId = "rbxassetid://125750702"
 local CA = Hum:LoadAnimation(climbingstuffs)
